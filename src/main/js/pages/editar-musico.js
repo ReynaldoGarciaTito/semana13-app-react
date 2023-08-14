@@ -1,6 +1,5 @@
 const React = require('react');
 const { Link, useParams } = require('react-router-dom');
-
 const client = require('../client');
 const { useState, useEffect } = require('react');
 
